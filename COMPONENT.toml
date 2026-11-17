@@ -3,7 +3,7 @@ name = "SigmaOS-arch-security-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-security-kernel component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
